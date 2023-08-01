@@ -10,7 +10,6 @@ The default device address is DEVICE_ADDRESS_A 0x44 and if you attach the ADDR p
 This device supports 7bit I2C addresses.
 Schematic diagram to connect the sensor to the ESP-32 dev module or an Arduino is shown below.
 
-// create a basic schematic diagram and embed it here
 
 
 ## Examples
