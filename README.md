@@ -43,7 +43,7 @@ This sensor has a heater and to control the heater following methods could be us
 
 ```Cpp
 void enable_heater()
-void disable heater()
+void disable_heater()
 ```
 More information on ```examples/enable_disable_heater.ino```
 
@@ -55,7 +55,7 @@ In this mode the sensor starts acquiring data at a 4Hz rate and data could be re
 
 More information on how to perform 4Hz measurements are on ```examples/fourHz_Measurement.ino```
 
-To soft reset the sensor ```void soft_reset()``` can be used and to read the status register of the sensor ```void_read_device_status()``` can be used.
+To soft reset the sensor ```void soft_reset()``` can be used and to read the status register of the sensor ```void read_device_status()``` can be used.
 
 More information on examples ```void soft_reset_sensor()``` can be found at ```examples/soft_reset_sensor.ino```
 
