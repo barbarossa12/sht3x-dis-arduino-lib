@@ -1,0 +1,21 @@
+{
+    "name": "sht3x-dis-arduino-lib",
+    "version": "1.0.0",
+    "description": "An Arduino library to communicate with Sensirion SHT3x-DIS sensor with heater control enabled",
+    "keywords": "Humidity, Temperature, Sensirion, sht3x, sht3x-dis",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/username/hello-world.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Sarathee Dewmith",
+        "email": "saratheedewmith325@gmail.com"
+      }
+    ],
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*"
+  }
