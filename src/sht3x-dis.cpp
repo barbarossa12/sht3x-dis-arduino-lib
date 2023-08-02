@@ -24,7 +24,7 @@ SOFTWARE.
 
 
 #include "sht3x-dis-registers.h"
-#include "sht3x-dis.h"
+#include "sht3x-dis-arduino-lib.h"
 
 /**
  * @brief function to read i2c data from sht3x
