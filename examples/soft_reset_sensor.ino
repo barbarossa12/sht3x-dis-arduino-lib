@@ -23,7 +23,7 @@ SOFTWARE.
 */
 
 
-#include "sht3x-dis.h"
+#include "sht3x-dis-arduino-lib.h"
 
 // Setup Serial communications
 void setup() {

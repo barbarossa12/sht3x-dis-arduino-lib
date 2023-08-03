@@ -23,7 +23,7 @@ SOFTWARE.
 */
 
 
-#include "sht3x-dis.h"
+#include "sht3x-dis-arduino-lib.h"
 
 void print_data(float temperature, float rh); /*Helper function to print the readings*/
 

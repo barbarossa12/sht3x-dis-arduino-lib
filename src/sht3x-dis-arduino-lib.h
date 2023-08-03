@@ -23,8 +23,8 @@ SOFTWARE.
 */
 
 
-#ifndef SHT3X_DIS_H
-#define SHT3X_DIS_H
+#ifndef SHT3X_DIS_ARDUINO_LIB_H
+#define SHT3X_DIS_ARDUINO_LIB_H
 #include <Wire.h>
 #include <Arduino.h>
 #include "sht3x-dis-registers.h"
